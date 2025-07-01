@@ -14,4 +14,5 @@ pretty_download_geos.py requires an <i>input</i> argument, such as GEOsources_sa
 ### Run
 Open Terminal in the same folder as the script file, or open Terminal and go to the folder where the script is located
 
-python pretty_download_geos.py -i ./GEOsources_sample.txt
+  python pretty_download_geos.py -i ./GEOsources_sample.txt
+
