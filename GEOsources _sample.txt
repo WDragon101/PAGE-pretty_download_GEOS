@@ -1,0 +1,2 @@
+GSM7051124_DNA-100C-BS1.CpG.bw	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM7051124&format=file&file=GSM7051124%5FDNA%2D100C%2DBS1%2ECpG%2Ebw
+GSM7051125_DNA-100C-BS2.CpG.bw	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM7051125&format=file&file=GSM7051125%5FDNA%2D100C%2DBS2%2ECpG%2Ebw
